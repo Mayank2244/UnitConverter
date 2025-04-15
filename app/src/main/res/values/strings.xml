@@ -1,0 +1,8 @@
+<resources>
+    <string name="Unit_Converter">Unit Converter</string>
+    <string name="enter_value">Enter Value</string>
+
+    <string name="Convert"> Convert</string>
+    <string name="result">result</string>
+    <string name="setting">Setting</string>
+</resources>
